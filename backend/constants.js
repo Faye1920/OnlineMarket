@@ -1,0 +1,5 @@
+const STRIPE_SECRET_KEY = "sk_test_51OMxUxKvk3sYCd4Uhyfb3m7GbAR4nV9IVxeWqKKmeKLRRfcu2JRkSn69vy6ORVYI8BVMIFeG7JkQxbN6Z5HbiBE900aOlBFUuI";
+
+module.exports = {
+    STRIPE_SECRET_KEY
+}

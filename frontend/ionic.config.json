@@ -1,0 +1,7 @@
+{
+  "name": "projet-integrateur-ninja-codeurs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}

@@ -1,0 +1,3 @@
+const tech_specs_api_key = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImN1c19QTWVFdzRIY2FyUXhiVCIsIm1vZXNpZlByaWNpbmdJZCI6InByaWNlXzFNUXF5dkJESWxQbVVQcE1NNWc2RmVvbyIsImlhdCI6MTcwNTEwNTEyOX0.KRtltuhaxkCn2bmlwBf9NO4O65n0RYxzaiG7drOpM-U";
+
+export default tech_specs_api_key;
